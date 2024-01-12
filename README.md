@@ -43,6 +43,7 @@ Se va a proporcionar un ejemplo:
 
 Ingrese las dimensiones del laberinto (nxm) y el numero de tuneles : 
 3 6 1
+
 Ingrese los 6 elementos en las 3 filas
 ###*##
 X#XA%#
