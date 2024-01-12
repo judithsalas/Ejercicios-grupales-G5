@@ -45,9 +45,13 @@ Ingrese las dimensiones del laberinto (nxm) y el numero de tuneles :
 3 6 1
 
 Ingrese los 6 elementos en las 3 filas
+
 ###*##
+
 X#XA%#
+
 ###*##
+
 
 Ingrese las coordenadas de los tunneles (i1 j1 i2 j2): 
 2 3 2 1
